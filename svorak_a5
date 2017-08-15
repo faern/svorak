@@ -14,7 +14,7 @@ xkb_symbols "svorak" {
     key <AE08> { [ 8,          none,       none,                none ] };
     key <AE09> { [ 9,          none,       none,                none ] };
     key <AE10> { [ 0,          none,       none,                none ] };
-    key <AE11> { [ plus,       none,       none,                none ] };
+    key <AE11> { [ none,       none,       none,                none ] };
     key <AD01> { [ aring,      Aring,      braceleft,           none ] };
     key <AD02> { [ adiaeresis, Adiaeresis, braceright,          none ] };
     key <AD03> { [ odiaeresis, Odiaeresis, bracketleft,         none ] };
@@ -39,7 +39,7 @@ xkb_symbols "svorak" {
     key <AC09> { [ n,          N,          quotedbl,            none ] };
     key <AC10> { [ s,          S,          apostrophe,          none ] };
     key <AC11> { [ minus,      underscore, asciitilde,          none ] };
-    key <BKSL> { [ apostrophe, asterisk,   asterisk,            none ] };
+    key <BKSL> { [ plus,       asterisk,   asterisk,            none ] };
     key <AB01> { [ period,     none,       colon,               none ] };
     key <AB02> { [ q,          Q,          equal,               none ] };
     key <AB03> { [ j,          J,          at,                  none ] };
