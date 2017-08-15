@@ -27,7 +27,7 @@ xkb_symbols "svorak" {
     key <AD09> { [ r,          R,          less,                none ] };
     key <AD10> { [ l,          L,          greater,             none ] };
     key <AD11> { [ comma,      none,       dead_cedilla,        none ] };
-    key <AD12> { [ dead_diaeresis, dead_circumflex, dead_tilde, asciicircum ]   };
+    key <AD12> { [ dead_diaeresis, none,   none,                none ] };
     key <AC01> { [ a,          A,          semicolon,           none ] };
     key <AC02> { [ o,          O,          slash,               none ] };
     key <AC03> { [ e,          E,          parenleft,           none ] };
