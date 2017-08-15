@@ -20,7 +20,7 @@ xkb_symbols "svorak" {
     key <AD03> { [ odiaeresis, Odiaeresis, bracketleft,         none ] };
     key <AD04> { [ p,          P,          bracketright,        none ] };
     key <AD05> { [ y,          Y,          dollar,              none ] };
-    key <AD06> { [ f,          F,          quotedbl,            none ] };
+    key <AD06> { [ f,          F,          none,                none ] };
     key <AD07> { [ g,          G,          question,            none ] };
     key <AD08> { [ c,          C,          ampersand,           none ] };
     key <AD09> { [ r,          R,          less,                none ] };
