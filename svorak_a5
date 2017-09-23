@@ -49,5 +49,5 @@ xkb_symbols "svorak" {
     key <AB07> { [ m,          M,          grave,               none ] };
     key <AB08> { [ w,          W,          acute,               none ] };
     key <AB09> { [ v,          V,          leftdoublequotemark, none ] };
-    key <AB10> { [ z,          Z,          guillemotleft,       none ] };
+    key <AB10> { [ z,          Z,          rightdoublequotemark,none ] };
 };
